@@ -1,0 +1,19 @@
+SRS:-
+Introduction
+	purpose
+	scope
+	overview
+general descriptiom
+funtional req
+interactive req
+performance req
+design constraints
+non-funtional req
+schedule and budget
+
+
+problem statement:-
+understand and gather info on problem
+describe the current state
+describe the desired state without the problem
+deduce the impact
